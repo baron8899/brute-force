@@ -1,7 +1,7 @@
 #!bin/sh
 banner(){
-       banner <<- EOF
-       {RED}_____________________
+        cat <<- EOF
+                ${RED}_____________________
 
-
+        EOF
 }
