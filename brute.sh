@@ -1,5 +1,5 @@
 #!bin/sh
-banner(){
+banner() {
         cat <<- EOF
                 ${RED}_____________________
 
