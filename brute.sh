@@ -14,7 +14,3 @@ banner() {
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Anonymous FL team (BaoLam and Tu)${WHITE}
 	EOF
 }
-##print
-ex() {
-   {banner}
-}
